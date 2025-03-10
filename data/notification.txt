@@ -1,2 +1,3 @@
-1. 欢迎使用bot联系我
+我是消息转发Bot，请告诉我你想说的话
+Powered by nfd (https://github.com/LloydAsp/nfd)
 
